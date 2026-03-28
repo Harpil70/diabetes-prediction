@@ -23,7 +23,7 @@ This project predicts whether a patient has diabetes using machine learning mode
 ## 📈 Results
 
 * Best Model: Random Forest (after tuning)
-* Accuracy: XX%
+* Accuracy: 77.3%
 
 ## 🚀 How to Run
 
